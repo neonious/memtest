@@ -1,0 +1,3 @@
+[submodule "esp-idf-dlmalloc"]
+	path = esp-idf-dlmalloc
+	url = https://github.com/neonious/esp-idf-dlmalloc

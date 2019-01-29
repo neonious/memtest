@@ -1,3 +1,4 @@
 Simple test application for https://github.com/neonious/esp-idf-dlmalloc
 
-Run this with the original ESP-IDF and with the ESP-IDF-dlmalloc to see the difference.
+Run this after "git submodule update --init --recursive" for ESP-IDF-dlmalloc version.
+Run this with original ESP-IDF by changing the variable pointing to the ESP-IDF repo.
